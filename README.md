@@ -1,0 +1,2 @@
+# JavaProjectTraditionalApproach/Blueskycitadel
+ Propertyrete
